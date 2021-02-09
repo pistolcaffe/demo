@@ -1,6 +1,6 @@
 {
   "weather": {
-    "degree": 4,
+    "temperature": 4,
     "description": "맑음"
   }
 }
