@@ -1,4 +1,6 @@
 {
-  "degree": 4,
-  "description": "맑음"
+  "weather": {
+    "degree": 4,
+    "description": "맑음"
+  }
 }
